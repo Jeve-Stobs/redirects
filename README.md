@@ -1,0 +1,1 @@
+## Just a temporary solution for our site redirects ✨
